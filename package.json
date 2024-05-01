@@ -9,6 +9,9 @@
     "type": "git",
     "url": "git+https://github.com/k-gourav/react-js.git"
   },
+  "start": "parcel",
+  "build": "parcel build",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "keywords": [],
   "author": "Kumar Gourav",
   "license": "ISC",
